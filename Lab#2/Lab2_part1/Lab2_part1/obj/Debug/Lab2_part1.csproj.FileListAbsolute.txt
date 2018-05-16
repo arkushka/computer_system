@@ -1,0 +1,14 @@
+E:\Study\Ю\Lab2_part1\Lab2_part1\bin\Debug\Lab2_part1.exe.config
+E:\Study\Ю\Lab2_part1\Lab2_part1\bin\Debug\Lab2_part1.exe
+E:\Study\Ю\Lab2_part1\Lab2_part1\bin\Debug\Lab2_part1.pdb
+E:\Study\Ю\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.csprojResolveAssemblyReference.cache
+E:\Study\Ю\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.csproj.CoreCompileInputs.cache
+E:\Study\Ю\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.exe
+E:\Study\Ю\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.pdb
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\bin\Debug\Lab2_part1.exe.config
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\bin\Debug\Lab2_part1.exe
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\bin\Debug\Lab2_part1.pdb
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.csprojResolveAssemblyReference.cache
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.csproj.CoreCompileInputs.cache
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.exe
+D:\ФРЕКС КНУ\Комп'ютерні системи\Lab2\Lab2_part1\Lab2_part1\obj\Debug\Lab2_part1.pdb

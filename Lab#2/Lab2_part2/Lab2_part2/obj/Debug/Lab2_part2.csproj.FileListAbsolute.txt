@@ -1,0 +1,7 @@
+E:\Study\Ю\Lab2_part2\Lab2_part2\bin\Debug\Lab2_part2.exe.config
+E:\Study\Ю\Lab2_part2\Lab2_part2\bin\Debug\Lab2_part2.exe
+E:\Study\Ю\Lab2_part2\Lab2_part2\bin\Debug\Lab2_part2.pdb
+E:\Study\Ю\Lab2_part2\Lab2_part2\obj\Debug\Lab2_part2.csprojResolveAssemblyReference.cache
+E:\Study\Ю\Lab2_part2\Lab2_part2\obj\Debug\Lab2_part2.csproj.CoreCompileInputs.cache
+E:\Study\Ю\Lab2_part2\Lab2_part2\obj\Debug\Lab2_part2.exe
+E:\Study\Ю\Lab2_part2\Lab2_part2\obj\Debug\Lab2_part2.pdb
